@@ -1,7 +1,7 @@
 /fasttext
 /.ipynb_checkpoints
-*.bmp
 *.vec
-*.pdf
 *.csv
 *.txt
+*.docx
+adding_new_words_to_vocab.ipynb
